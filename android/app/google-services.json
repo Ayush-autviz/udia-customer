@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "643810246236",
+    "project_id": "udia-86e19",
+    "storage_bucket": "udia-86e19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643810246236:android:6e29f2cf7188d6b6117099",
+        "android_client_info": {
+          "package_name": "com.udia.customers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYVtOdkkmPke1vi9u2Xa52SdZKgDVsLe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643810246236:android:1a437912809373b7117099",
+        "android_client_info": {
+          "package_name": "com.udia.restaurant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYVtOdkkmPke1vi9u2Xa52SdZKgDVsLe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

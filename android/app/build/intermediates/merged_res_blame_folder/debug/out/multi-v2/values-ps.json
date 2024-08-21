@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.udia.customers.app-mergeDebugResources-106:/values-ps/values-ps.xml",
+            "map": [
+                {
+                    "source": "/Users/priyankarathour/.gradle/caches/transforms-3/f8281ea3f1d4affe9c3097cd717cda6d/transformed/jetified-react-android-0.73.1-debug/res/values-ps/values-ps.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,132,199,279,346,414,490",
+                        "endColumns": "76,66,79,66,67,75,72",
+                        "endOffsets": "127,194,274,341,409,485,558"
+                    }
+                },
+                {
+                    "source": "/Users/priyankarathour/.gradle/caches/transforms-3/ff45c95a435027d39331c21fd403f19b/transformed/jetified-hcaptcha-20.44.2/res/values-ps/values-ps.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "82",
+                        "endOffsets": "133"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "563",
+                        "endColumns": "82",
+                        "endOffsets": "641"
+                    }
+                }
+            ]
+        }
+    ]
+}

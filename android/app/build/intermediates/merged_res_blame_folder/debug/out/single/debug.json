@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.udia.customers.app-merged_res-108:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.udia.customers.app-main-110:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.udia.customers.app-merged_res-108:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.udia.customers.app-main-110:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.udia.customers.app-merged_res-108:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.udia.customers.app-main-110:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.udia.customers.app-merged_res-108:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.udia.customers.app-main-110:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.udia.customers.app-merged_res-108:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.udia.customers.app-main-110:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.udia.customers.app-merged_res-108:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.udia.customers.app-main-110:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.udia.customers.app-merged_res-108:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.udia.customers.app-main-110:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.udia.customers.app-merged_res-108:/xml_network_security_config.xml.flat",
+        "source": "com.udia.customers.app-main-110:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.udia.customers.app-merged_res-108:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.udia.customers.app-main-110:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.udia.customers.app-merged_res-108:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.udia.customers.app-main-110:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.udia.customers.app-merged_res-108:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.udia.customers.app-main-110:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.udia.customers.app-merged_res-108:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.udia.customers.app-main-110:/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

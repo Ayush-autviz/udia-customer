@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.udia.customers.app-mergeDebugResources-106:/values-ldrtl-v17/values-ldrtl-v17.xml",
+            "map": [
+                {
+                    "source": "/Users/priyankarathour/.gradle/caches/transforms-3/0d65a7b76fc2ca48ae05fb0f3e2ac313/transformed/material-1.11.0/res/values-ldrtl-v17/values-ldrtl-v17.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,191",
+                        "endColumns": "135,140",
+                        "endOffsets": "186,327"
+                    }
+                }
+            ]
+        }
+    ]
+}

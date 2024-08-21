@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.udia.customers.app-mergeDebugResources-106:/values-xxhdpi-v4/values-xxhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/priyankarathour/.gradle/caches/transforms-3/84114aba492a7cde6c817346abf6771a/transformed/jetified-payments-core-20.44.2/res/values-xxhdpi-v4/values-xxhdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "63",
+                        "endOffsets": "114"
+                    }
+                }
+            ]
+        }
+    ]
+}
